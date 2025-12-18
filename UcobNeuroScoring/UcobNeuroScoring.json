@@ -1,9 +1,9 @@
 {
-  "Author": "Yhumi",
+  "Author": "Yhumi (with help from Vivian)",
   "Name": "Ucob Neuro Scoring",
   "Punchline": "Score your neurolink placement in UCoB! /ucobscoring.",
   "Description": "Score your neurolink placement in UCoB! /ucobscoring.",
-  "ApplicableVersion": "any",
+  "ApplicableVersion": 14,
   "Tags": [
     "ucob",
     "scoring",
