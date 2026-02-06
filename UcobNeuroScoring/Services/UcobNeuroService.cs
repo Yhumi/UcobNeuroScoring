@@ -177,6 +177,8 @@ namespace UcobNeuroScoring.Services
         {
             switch (P.Config.ScoringType)
             {
+                case ScoringType.Extreme:
+                    return ExtremeScoring(waymark, neuro);
                 case ScoringType.Hard:
                     return HardScoring(waymark, neuro);
                 case ScoringType.Easy:
